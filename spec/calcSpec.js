@@ -1,5 +1,6 @@
 describe("Calculator", function(){
-    beforeEach(function(){
+
+    beforeEach(function() {
         calc = new Calculator;
     });
 
